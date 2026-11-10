@@ -24,3 +24,4 @@ class Program
         Console.WriteLine("Ukupno rezervisanih mjesta: " + rezervisanaMjesta);
     }
 }
+//izmjene
