@@ -1,14 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
-    static int rezervisanaMjesta = 0;
+    static Dictionary<string, int> rezervacije = new Dictionary<string, int>();
 
-    static string RezervisiUlaznice(int broj)
+    static string RezervisiUlaznice(string korisnik, int broj)
     {
         if (broj <= 5)
         {
-            rezervisanaMjesta += broj;
+            if (!rezervacije.ContainsKey(korisnik))
+            {
+                rezervacije[korisnik] = 0;
+            }
+
+            rezervacije[korisnik] += broj;
             return "Rezervacija uspjesna!";
         }
 
@@ -17,10 +23,10 @@ class Program
 
     static void Main()
     {
-        Console.WriteLine(RezervisiUlaznice(5));
-        Console.WriteLine(RezervisiUlaznice(5));
-        Console.WriteLine(RezervisiUlaznice(5));
+        Console.WriteLine(RezervisiUlaznice("ana", 5));
+        Console.WriteLine(RezervisiUlaznice("ana", 5));
+        Console.WriteLine(RezervisiUlaznice("ana", 5));
 
-        Console.WriteLine("Ukupno rezervisanih mjesta: " + rezervisanaMjesta);
+        Console.WriteLine("Ana ukupno rezervisala: " + rezervacije["ana"]);
     }
 }

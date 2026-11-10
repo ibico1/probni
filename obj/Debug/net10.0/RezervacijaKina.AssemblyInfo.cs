@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RezervacijaKina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff0d5b6797579f8f097f716fc9a0a64e347f62f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RezervacijaKina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RezervacijaKina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
