@@ -12,3 +12,4 @@ C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\refint\RezervacijaKina.dll
 C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.pdb
 C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.genruntimeconfig.cache
 C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\ref\RezervacijaKina.dll
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.sourcelink.json
