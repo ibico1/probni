@@ -1,0 +1,14 @@
+C:\Users\USER\RezervacijaKina\bin\Debug\net10.0\RezervacijaKina.exe
+C:\Users\USER\RezervacijaKina\bin\Debug\net10.0\RezervacijaKina.deps.json
+C:\Users\USER\RezervacijaKina\bin\Debug\net10.0\RezervacijaKina.runtimeconfig.json
+C:\Users\USER\RezervacijaKina\bin\Debug\net10.0\RezervacijaKina.dll
+C:\Users\USER\RezervacijaKina\bin\Debug\net10.0\RezervacijaKina.pdb
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.AssemblyInfoInputs.cache
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.AssemblyInfo.cs
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.csproj.CoreCompileInputs.cache
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.dll
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\refint\RezervacijaKina.dll
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.pdb
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\RezervacijaKina.genruntimeconfig.cache
+C:\Users\USER\RezervacijaKina\obj\Debug\net10.0\ref\RezervacijaKina.dll
